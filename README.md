@@ -21,7 +21,7 @@ Dosen : Donny Maulana, S.Kom., M.M.S.I.
 >**Deret Fibonacci** pertama kali diperkenalkan oleh matematikawan Italia bernama ``Leonardo of Pisa``, yang juga dikenal sebagai Fibonacci, dalam bukunya "Liber Abaci" pada tahun 1202. Deret ini muncul dalam berbagai konteks dalam matematika, ilmu komputer, ilmu alam, dan banyak bidang lainnya. Beberapa aplikasi dari deret Fibonacci meliputi permodelan pertumbuhan populasi, analisis pasar keuangan, dan desain algoritma.
 
 ## **Program Fibonacci**
-### **Main Activity Java
+### **Main Activity Java**
 ```java
 package com.example.fibonacciapp;
 
@@ -242,3 +242,55 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
+## Output  
+
+- Berikut adalah tampilan apabila ``telah berhasil di RUN`` di awali dengan angka 0.  
+
+![Screenshot (46)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/5753c2e7-f08e-4348-bb71-a49c52607a12)  
+
+## Output  
+
+- Selanjutnya, sebelum ``mengklik tombol Count``, sebaiknya isi angka pada Enter Limit terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 10.  
+
+![Screenshot (47)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/6a6eea25-fb16-4dba-9443-4633fb7b9a6c)  
+
+
+## Output 
+
+- Selanjutnya, bisa langsung ``klik tombol Count``. Maka, tampilannya akan berubah dari angka 0 menjadi angka 1.  
+
+![Screenshot (48)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/bc796f4a-41a8-48da-94f6-7fcdc10221e4)  
+
+## Output
+
+- **Deret Fibonacci** memiliki pola sebagai berikut: ``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...`` Oleh karena itu, setelah angka 1 muncul, angka berikutnya juga akan menjadi angka 1. Perubahan angka ini ditandai dengan perubahan warna pada angka tersebut.  
+
+![Screenshot (49)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/551f8b4b-773b-43fc-9062-c1c8f7e1d087)  
+
+
+## Output
+
+- Selanjutnya, setelah angka 1 muncul dua kali, angka berikutnya akan menjadi 2. Angka-angka selanjutnya akan mengikuti urutan deret Fibonacci, yaitu ``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ....``  
+
+![Screenshot (50)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/ca241bd4-4872-424a-9863-6e5e56d0cbd3)  
+
+
+## Output
+
+- Ketika deret Fibonacci mencapai limit, maka akan tampil teks *"Fibonacci limit reached"*. Ketika kita ``klik tombol Count``, maka tidak akan dilanjutkan dan hanya berhenti di angka limit tersebut.  
+
+![Screenshot (51)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/ab4f51e2-9233-4570-b7a2-fb0d07f9d015)  
+
+## Output
+
+- Selanjutnya, jika kita ``klik tombol Fibonacci,`` maka akan muncul tampilan teks *"Program Fibonacci"*.  
+
+![Screenshot (52)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/ae803dc0-8dbf-43aa-8f08-3191378c9b3a)  
+
+## Ouput
+
+- Terakhir, ini adalah tampilan apabila ``diklik tombol Reset``, semua akan kembali ke tampilan awal, dimulai dari angka 0, dan harus memasukkan limit lagi.  
+
+![Screenshot (53)](https://github.com/HasbiAssidiki/UTS-Pemograman_Mobile/assets/115614317/298309e0-9d35-4a30-90fc-5d72d44bdb9c)  
+
+## SELESAI !!
